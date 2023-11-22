@@ -51,3 +51,4 @@ blockchain.addBlock("Second one");
 blockchain.addBlock("Third one");
 
 console.log(blockchain.getBlcoks());
+console.log(blockchain.getBlcoks());
